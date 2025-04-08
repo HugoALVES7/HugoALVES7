@@ -15,8 +15,5 @@ Welcome to my GitHub profile! Here you'll find the projects I've worked on or am
 Feel free to send me an email, whether it's for a question or a request:
 [hugo.alves.pro1@gmail.com](mailto:hugo.alves.pro1@gmail.com)
 
-## 📊 **GitHub Stats**
-
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoALVES7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoALVES7&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=BySplashGm&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+### Thank you for visiting my profile, and see you soon! 👾
+![gif](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)
