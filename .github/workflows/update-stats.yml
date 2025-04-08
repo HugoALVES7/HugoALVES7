@@ -1,0 +1,22 @@
+name: Update GitHub Stats
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate README stats
+        run: |
+          echo "Updating stats in README..."
+          curl -s -H "Authorization: token ${{ secrets.REPO_GITHUB_TOKEN }}" \
+          "https://github-readme-stats.vercel.app/api?username=HugoALVES7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" \
+          > README.md
