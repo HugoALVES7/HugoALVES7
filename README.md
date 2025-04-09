@@ -1,6 +1,6 @@
 # ![black cat gif](https://s1.ezgif.com/tmp/ezgif-107c136627fd9e.gif) **Hey there, I'm Hugo**!
 
-### ![dev gif](https://s1.ezgif.com/tmp/ezgif-139e6d3e9e862b.png) Developer and student.
+### ![dev gif](https://s3.ezgif.com/tmp/ezgif-3643eea49aabe2.gif) Developer and student.
 
 Welcome to my GitHub profile! Here you'll find the projects I've worked on or am still working on.
 
