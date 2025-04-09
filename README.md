@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! Here you'll find the projects I've worked on or am still working on.
 
-## ![link gif](https://s1.ezgif.com/tmp/ezgif-1da6973a41608a.gif) **Un peu plus sur moi**
+## ![link gif](https://s1.ezgif.com/tmp/ezgif-1da6973a41608a.gif) **About me**
 
 🎓 Student in **2nd year post-high school** (for the French: **BTS SIO SLAM**) with a passion for everything related to IT development.  
 🧑‍💻 I enjoy learning new technologies and deepening my knowledge in development.  
