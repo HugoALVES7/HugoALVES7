@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here you'll find the projects I've worked on or am
 
 ## ![panda gif](./asset/gif/panda.gif) **Want to contact me?**
 
-✉️ Feel free to email me wwith any questions or requests: [hugo.alves.pro1@gmail.com](mailto:hugo.alves.pro1@gmail.com)
+✉️ Feel free to email me with any questions or requests: [hugo.alves.pro1@gmail.com](mailto:hugo.alves.pro1@gmail.com)
 
 ### ![pickachu gif](./asset/gif/pickachu.gif) Thank you for visiting my profile, and see you soon! ![pickachu gif](./asset/gif/pickachu.gif)
 
